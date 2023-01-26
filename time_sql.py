@@ -154,9 +154,9 @@ if __name__ == '__main__':
     # get_table_count() # 获取表名长度
     # get_table_length_of_each_table(get_table_count())
     #get_column_count() # 获取字段长度
-     #get_column_length_of_each_column(get_column_count()）
-     #get_table_name_of_each_table(get_column_count())
-      get_username_and_password()                                                 
+    #get_column_length_of_each_column(get_column_count()）
+    #get_table_name_of_each_table(get_column_count())
+    #get_username_and_password()                                                 
  
 
 
